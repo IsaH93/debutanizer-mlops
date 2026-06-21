@@ -1,0 +1,16 @@
+creation_timestamp: 1781962613773
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1781962613773
+model_id: m-38eaa451cb164a8b9126bab5c28aadad
+name: debutanizer-soft-sensor
+run_id: dee37a6f00f349d49a4b759d5eca1a0b
+run_link: null
+source: models:/m-38eaa451cb164a8b9126bab5c28aadad
+status: READY
+status_message: null
+storage_location: file:///home/claude/debutanizer-mlops/mlflow_store/488774607404464506/models/m-38eaa451cb164a8b9126bab5c28aadad/artifacts
+user_id: null
+version: 3
+workspace: default

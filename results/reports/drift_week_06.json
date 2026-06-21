@@ -1,0 +1,214 @@
+{
+  "week": 6,
+  "week_label": "week_06",
+  "drift_detected": true,
+  "any_psi_drift": true,
+  "any_ks_drift": true,
+  "n_psi_drifted": 28,
+  "n_ks_drifted": 28,
+  "features": {
+    "T1": {
+      "psi": 0.6839,
+      "psi_flag": true,
+      "ks_stat": 0.4231,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "T2": {
+      "psi": 1.0627,
+      "psi_flag": true,
+      "ks_stat": 0.4663,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "T3": {
+      "psi": 1.1357,
+      "psi_flag": true,
+      "ks_stat": 0.4856,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "T4": {
+      "psi": 1.0728,
+      "psi_flag": true,
+      "ks_stat": 0.4904,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "T5": {
+      "psi": 1.1583,
+      "psi_flag": true,
+      "ks_stat": 0.5048,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "VF": {
+      "psi": 1.1221,
+      "psi_flag": true,
+      "ks_stat": 0.4375,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "RF": {
+      "psi": 2.2151,
+      "psi_flag": true,
+      "ks_stat": 0.6971,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "F": {
+      "psi": 0.0554,
+      "psi_flag": false,
+      "ks_stat": 0.0673,
+      "ks_pval": 0.735,
+      "ks_flag": false
+    },
+    "T1_lag1": {
+      "psi": 0.7022,
+      "psi_flag": true,
+      "ks_stat": 0.4231,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "T1_lag2": {
+      "psi": 0.7338,
+      "psi_flag": true,
+      "ks_stat": 0.4279,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "T1_lag3": {
+      "psi": 0.7371,
+      "psi_flag": true,
+      "ks_stat": 0.4279,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "T3_lag1": {
+      "psi": 1.1545,
+      "psi_flag": true,
+      "ks_stat": 0.4856,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "T3_lag2": {
+      "psi": 1.161,
+      "psi_flag": true,
+      "ks_stat": 0.4904,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "T3_lag3": {
+      "psi": 0.9759,
+      "psi_flag": true,
+      "ks_stat": 0.4952,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "T5_lag1": {
+      "psi": 1.1484,
+      "psi_flag": true,
+      "ks_stat": 0.5096,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "T5_lag2": {
+      "psi": 1.1088,
+      "psi_flag": true,
+      "ks_stat": 0.5144,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "T5_lag3": {
+      "psi": 1.1435,
+      "psi_flag": true,
+      "ks_stat": 0.5192,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "VF_lag1": {
+      "psi": 1.1282,
+      "psi_flag": true,
+      "ks_stat": 0.4375,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "VF_lag2": {
+      "psi": 1.1841,
+      "psi_flag": true,
+      "ks_stat": 0.4375,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "VF_lag3": {
+      "psi": 1.5829,
+      "psi_flag": true,
+      "ks_stat": 0.4423,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "RF_lag1": {
+      "psi": 2.2507,
+      "psi_flag": true,
+      "ks_stat": 0.7019,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "RF_lag2": {
+      "psi": 2.3287,
+      "psi_flag": true,
+      "ks_stat": 0.7115,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "RF_lag3": {
+      "psi": 2.3371,
+      "psi_flag": true,
+      "ks_stat": 0.7212,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "T1_roll5": {
+      "psi": 0.8079,
+      "psi_flag": true,
+      "ks_stat": 0.6154,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "T5_roll5": {
+      "psi": 0.9217,
+      "psi_flag": true,
+      "ks_stat": 0.6202,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "RF_roll5": {
+      "psi": 3.2753,
+      "psi_flag": true,
+      "ks_stat": 0.7404,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "reflux_ratio": {
+      "psi": 1.8174,
+      "psi_flag": true,
+      "ks_stat": 0.375,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "temp_gradient": {
+      "psi": 0.5551,
+      "psi_flag": true,
+      "ks_stat": 0.3413,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    },
+    "feed_load": {
+      "psi": 0.6149,
+      "psi_flag": true,
+      "ks_stat": 0.351,
+      "ks_pval": 0.0,
+      "ks_flag": true
+    }
+  }
+}

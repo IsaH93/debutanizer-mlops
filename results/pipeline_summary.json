@@ -1,0 +1,11 @@
+{
+  "n_rows": 2500,
+  "n_features": 29,
+  "initial_rmse": 0.0,
+  "initial_r2": -1.1994995323415552e+16,
+  "initial_mape": 0.0,
+  "retrained_rmse": 0.000668,
+  "retrained_r2": 0.6786,
+  "first_drift_week": 2,
+  "promoted": true
+}

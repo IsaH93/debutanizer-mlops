@@ -1,0 +1,1 @@
+{"run_id": "dee37a6f00f349d49a4b759d5eca1a0b", "run_name": "initial_training_v1", "test_rmse": 0.0898251467412047, "test_mae": 0.07267835973276192, "test_r2": 0.7391481515756366, "test_mape": 9.87969453512519, "cv_rmse_mean": 0.13901401745518416}

@@ -1,0 +1,74 @@
+[
+  {
+    "week": 1,
+    "drift_detected": true,
+    "n_drifted": 1,
+    "max_psi": 0.0687
+  },
+  {
+    "week": 2,
+    "drift_detected": true,
+    "n_drifted": 2,
+    "max_psi": 0.3507
+  },
+  {
+    "week": 3,
+    "drift_detected": true,
+    "n_drifted": 3,
+    "max_psi": 0.3516
+  },
+  {
+    "week": 4,
+    "drift_detected": true,
+    "n_drifted": 3,
+    "max_psi": 0.4608
+  },
+  {
+    "week": 5,
+    "drift_detected": true,
+    "n_drifted": 3,
+    "max_psi": 1.7315
+  },
+  {
+    "week": 6,
+    "drift_detected": true,
+    "n_drifted": 3,
+    "max_psi": 0.1852
+  },
+  {
+    "week": 7,
+    "drift_detected": true,
+    "n_drifted": 3,
+    "max_psi": 0.2657
+  },
+  {
+    "week": 8,
+    "drift_detected": true,
+    "n_drifted": 5,
+    "max_psi": 0.6981
+  },
+  {
+    "week": 9,
+    "drift_detected": true,
+    "n_drifted": 3,
+    "max_psi": 0.784
+  },
+  {
+    "week": 10,
+    "drift_detected": true,
+    "n_drifted": 5,
+    "max_psi": 1.1572
+  },
+  {
+    "week": 11,
+    "drift_detected": true,
+    "n_drifted": 4,
+    "max_psi": 3.5985
+  },
+  {
+    "week": 12,
+    "drift_detected": true,
+    "n_drifted": 5,
+    "max_psi": 5.102
+  }
+]

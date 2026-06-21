@@ -1,0 +1,50 @@
+[
+  {
+    "week": 7,
+    "trigger": "PSI > 0.20",
+    "production_rmse_before": 0.1086,
+    "retrain_rmse": 0.0851,
+    "promoted": true,
+    "reason": "RMSE improved"
+  },
+  {
+    "week": 8,
+    "trigger": "PSI > 0.20",
+    "production_rmse_before": 0.1245,
+    "retrain_rmse": 0.0877,
+    "promoted": true,
+    "reason": "RMSE improved"
+  },
+  {
+    "week": 9,
+    "trigger": "PSI > 0.20",
+    "production_rmse_before": 0.1452,
+    "retrain_rmse": 0.0936,
+    "promoted": true,
+    "reason": "RMSE improved"
+  },
+  {
+    "week": 10,
+    "trigger": "PSI > 0.20",
+    "production_rmse_before": 0.1642,
+    "retrain_rmse": 0.0859,
+    "promoted": true,
+    "reason": "RMSE improved"
+  },
+  {
+    "week": 11,
+    "trigger": "PSI > 0.20",
+    "production_rmse_before": 0.1793,
+    "retrain_rmse": 0.0852,
+    "promoted": true,
+    "reason": "RMSE improved"
+  },
+  {
+    "week": 12,
+    "trigger": "PSI > 0.20",
+    "production_rmse_before": 0.1961,
+    "retrain_rmse": 0.0914,
+    "promoted": true,
+    "reason": "RMSE improved"
+  }
+]

@@ -1,0 +1,9 @@
+artifact_location: file:///home/claude/debutanizer-mlops/mlflow_store/488774607404464506
+creation_time: 1781962553866
+effective_trace_archival_retention: null
+experiment_id: '488774607404464506'
+last_update_time: 1781962553866
+lifecycle_stage: active
+name: debutanizer-soft-sensor
+trace_location: null
+workspace: default

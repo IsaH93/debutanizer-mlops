@@ -1,0 +1,45 @@
+{
+  "week": 1,
+  "drift_detected": true,
+  "features": {
+    "u1_top_tray_temp": {
+      "psi": 0.0449,
+      "ks_statistic": 0.1109,
+      "ks_pvalue": 0.018229,
+      "drift_detected": true
+    },
+    "u4_feed_flow": {
+      "psi": 0.0121,
+      "ks_statistic": 0.0319,
+      "ks_pvalue": 0.987623,
+      "drift_detected": false
+    },
+    "u6_bottom_temp": {
+      "psi": 0.0687,
+      "ks_statistic": 0.0888,
+      "ks_pvalue": 0.097523,
+      "drift_detected": false
+    },
+    "u3_reflux_flow": {
+      "psi": 0.028,
+      "ks_statistic": 0.0267,
+      "ks_pvalue": 0.998814,
+      "drift_detected": false
+    },
+    "reflux_ratio": {
+      "psi": 0.0319,
+      "ks_statistic": 0.0443,
+      "ks_pvalue": 0.838006,
+      "drift_detected": false
+    },
+    "delta_top_bottom": {
+      "psi": 0.0299,
+      "ks_statistic": 0.0492,
+      "ks_pvalue": 0.732563,
+      "drift_detected": false
+    }
+  },
+  "n_drifted_features": 1,
+  "psi_threshold": 0.2,
+  "ks_alpha": 0.05
+}

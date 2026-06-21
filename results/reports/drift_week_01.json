@@ -1,0 +1,214 @@
+{
+  "week": 1,
+  "week_label": "week_01",
+  "drift_detected": false,
+  "any_psi_drift": false,
+  "any_ks_drift": false,
+  "n_psi_drifted": 0,
+  "n_ks_drifted": 0,
+  "features": {
+    "T1": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "T2": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "T3": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "T4": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "T5": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "VF": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "RF": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "F": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "T1_lag1": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "T1_lag2": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "T1_lag3": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "T3_lag1": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "T3_lag2": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "T3_lag3": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "T5_lag1": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "T5_lag2": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "T5_lag3": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "VF_lag1": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "VF_lag2": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "VF_lag3": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "RF_lag1": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "RF_lag2": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "RF_lag3": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "T1_roll5": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "T5_roll5": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "RF_roll5": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "reflux_ratio": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "temp_gradient": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    },
+    "feed_load": {
+      "psi": 0.0,
+      "psi_flag": false,
+      "ks_stat": 0.0,
+      "ks_pval": 1.0,
+      "ks_flag": false
+    }
+  }
+}

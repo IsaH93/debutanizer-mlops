@@ -1,0 +1,10 @@
+artifact_location: file:///home/claude/debutanizer-mlops/mlflow_store/488774607404464506/models/m-345c1cc3f8eb4b8da275f8ff13a29b35/artifacts
+creation_timestamp: 1781962563459
+experiment_id: '488774607404464506'
+last_updated_timestamp: 1781962571205
+model_id: m-345c1cc3f8eb4b8da275f8ff13a29b35
+model_type: null
+name: model
+source_run_id: c186532bc2b94a2b94856a6ba8ef6673
+status: 2
+status_message: null

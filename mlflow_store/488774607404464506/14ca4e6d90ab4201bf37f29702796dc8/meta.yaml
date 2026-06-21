@@ -1,0 +1,14 @@
+artifact_uri: file:///home/claude/debutanizer-mlops/mlflow_store/488774607404464506/14ca4e6d90ab4201bf37f29702796dc8/artifacts
+end_time: 1781962591677
+entry_point_name: ''
+experiment_id: '488774607404464506'
+lifecycle_stage: active
+run_id: 14ca4e6d90ab4201bf37f29702796dc8
+run_name: initial_training_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781962578466
+status: 4
+tags: []
+user_id: root
